@@ -1,0 +1,173 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "file": "app/immutable/entry/app.B67UTBFe.js",
+    "name": "entry/app",
+    "src": ".svelte-kit/generated/client-optimized/app.js",
+    "isEntry": true,
+    "imports": [
+      "_C_E_4ndo.js",
+      "_CP0asINM.js",
+      "_CfLlnYWl.js",
+      "_D8nafNpf.js",
+      "_jNu_azvm.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "app/immutable/nodes/0.BB3fEWN2.js",
+    "name": "nodes/0",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_D8nafNpf.js",
+      "_CP0asINM.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "app/immutable/nodes/1.ClRLcHie.js",
+    "name": "nodes/1",
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_D8nafNpf.js",
+      "_C1D61EwF.js",
+      "_CP0asINM.js",
+      "_CfLlnYWl.js",
+      "_C0kO50z3.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "app/immutable/nodes/2.BO2eksoU.js",
+    "name": "nodes/2",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
+    "isEntry": true,
+    "imports": [
+      "_CjuX0Kf0.js"
+    ]
+  },
+  "_2.D0RbhnkX.css": {
+    "file": "app/immutable/assets/2.D0RbhnkX.css",
+    "src": "_2.D0RbhnkX.css"
+  },
+  "_C0kO50z3.js": {
+    "file": "app/immutable/chunks/C0kO50z3.js",
+    "name": "entry",
+    "imports": [
+      "_CP0asINM.js",
+      "_CF4mypsj.js",
+      "_jNu_azvm.js"
+    ]
+  },
+  "_C1D61EwF.js": {
+    "file": "app/immutable/chunks/C1D61EwF.js",
+    "name": "legacy",
+    "imports": [
+      "_CP0asINM.js"
+    ]
+  },
+  "_CF4mypsj.js": {
+    "file": "app/immutable/chunks/CF4mypsj.js",
+    "name": "index",
+    "imports": [
+      "_CP0asINM.js"
+    ]
+  },
+  "_CP0asINM.js": {
+    "file": "app/immutable/chunks/CP0asINM.js",
+    "name": "runtime"
+  },
+  "_C_E_4ndo.js": {
+    "file": "app/immutable/chunks/C_E_4ndo.js",
+    "name": "preload-helper",
+    "imports": [
+      "_CP0asINM.js"
+    ]
+  },
+  "_CfLlnYWl.js": {
+    "file": "app/immutable/chunks/CfLlnYWl.js",
+    "name": "render",
+    "imports": [
+      "_CP0asINM.js",
+      "_D8nafNpf.js"
+    ]
+  },
+  "_CjuX0Kf0.js": {
+    "file": "app/immutable/chunks/CjuX0Kf0.js",
+    "name": "2",
+    "isDynamicEntry": true,
+    "imports": [
+      "_D8nafNpf.js",
+      "_C1D61EwF.js",
+      "_CP0asINM.js",
+      "_C_E_4ndo.js",
+      "_CfLlnYWl.js",
+      "_CF4mypsj.js",
+      "_jNu_azvm.js"
+    ],
+    "dynamicImports": [
+      "node_modules/html2canvas/dist/html2canvas.esm.js",
+      "node_modules/dompurify/dist/purify.es.mjs",
+      "node_modules/canvg/lib/index.es.js"
+    ],
+    "css": [
+      "app/immutable/assets/2.D0RbhnkX.css"
+    ],
+    "assets": [
+      "app/immutable/assets/OpenSans-VariableFont.BZBpG5Iz.ttf"
+    ]
+  },
+  "_D8nafNpf.js": {
+    "file": "app/immutable/chunks/D8nafNpf.js",
+    "name": "disclose-version",
+    "imports": [
+      "_CP0asINM.js"
+    ]
+  },
+  "_jNu_azvm.js": {
+    "file": "app/immutable/chunks/jNu_azvm.js",
+    "name": "index-client",
+    "imports": [
+      "_CP0asINM.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
+    "file": "app/immutable/entry/start.B4OgBJ2G.js",
+    "name": "entry/start",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_C0kO50z3.js"
+    ]
+  },
+  "node_modules/canvg/lib/index.es.js": {
+    "file": "app/immutable/chunks/CuW0OA9g.js",
+    "name": "index.es",
+    "src": "node_modules/canvg/lib/index.es.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_CjuX0Kf0.js"
+    ]
+  },
+  "node_modules/dompurify/dist/purify.es.mjs": {
+    "file": "app/immutable/chunks/Ci5xwkH_.js",
+    "name": "purify.es",
+    "src": "node_modules/dompurify/dist/purify.es.mjs",
+    "isDynamicEntry": true
+  },
+  "node_modules/html2canvas/dist/html2canvas.esm.js": {
+    "file": "app/immutable/chunks/CBrSDip1.js",
+    "name": "html2canvas.esm",
+    "src": "node_modules/html2canvas/dist/html2canvas.esm.js",
+    "isDynamicEntry": true
+  },
+  "src/font/Open_Sans/OpenSans-VariableFont.ttf": {
+    "file": "app/immutable/assets/OpenSans-VariableFont.BZBpG5Iz.ttf",
+    "src": "src/font/Open_Sans/OpenSans-VariableFont.ttf"
+  }
+}
